@@ -1,4 +1,4 @@
-# All in one NLP
+# All in One NLP
 I have created this repository with the aim of gathering good resources for begginers in the field of Natural Language Processing
 Anyone who would like to add a resource can create a pull request (no spams will be tolerated)
 
