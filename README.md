@@ -12,3 +12,4 @@ Blog : https://towardsdatascience.com/word-subword-and-character-based-tokenizat
 Videos : 
 - Word Based : https://youtu.be/nhJxYji1aho?si=7jRFznfTE_rwxWS1
 - Character Based : https://www.youtube.com/watch?v=ssLq_EK2jLE&t=23s
+- Subword Based : https://www.youtube.com/watch?v=zHvTiHr506c
