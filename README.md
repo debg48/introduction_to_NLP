@@ -4,16 +4,16 @@ Anyone who would like to add a resource can create a pull request (no spams will
 
 # Index
 - [Tokenization](#tokenization)
-- [Word Embeddings](##word-embeddings)
+- [Word Embeddings](#word-embeddings)
 
 ## Tokenization :
 
-Blog : https://towardsdatascience.com/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17
+[Blog](https://towardsdatascience.com/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17)
 
 Videos : 
 - [Word Based ](https://youtu.be/nhJxYji1aho?si=7jRFznfTE_rwxWS1)
-- Character Based : https://www.youtube.com/watch?v=ssLq_EK2jLE&t=23s
-- Subword Based : https://www.youtube.com/watch?v=zHvTiHr506c
+- [Character Based](https://www.youtube.com/watch?v=ssLq_EK2jLE&t=23s)
+- [Subword Based](https://www.youtube.com/watch?v=zHvTiHr506c)
 
 
 ## Word Embeddings :
