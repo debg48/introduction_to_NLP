@@ -3,7 +3,7 @@ I have created this repository with the aim of gathering good resources for begg
 Anyone who would like to add a resource can create a pull request (no spams will be tolerated)
 
 # Index
-- Tokenization
+- [Tokenization](#toeknizatin)
 
 ## Tokenization :
 
