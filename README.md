@@ -17,7 +17,7 @@ Videos :
 
 ## Stop Words : 
 
-Stop words are mist common words in any language that do not add much information to the sentence eg: a , is ,an ,etc
+Stop words are most common words in any language that do not add much information to the sentence eg: a , is ,an ,etc
 
 ## Bag of Words :
 
