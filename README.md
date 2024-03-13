@@ -15,6 +15,10 @@ Videos :
 - [Character Based](https://www.youtube.com/watch?v=ssLq_EK2jLE&t=23s)
 - [Subword Based](https://www.youtube.com/watch?v=zHvTiHr506c)
 
+## Stop Words : 
+
+Stop words are mist common words in any language that do not add much information to the sentence eg: a , is ,an ,etc
+
 ## Bag of Words :
 
 [Blog - A Gentle Introduction to the Bag-of-Words Model
