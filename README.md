@@ -15,5 +15,9 @@ Videos :
 - [Character Based](https://www.youtube.com/watch?v=ssLq_EK2jLE&t=23s)
 - [Subword Based](https://www.youtube.com/watch?v=zHvTiHr506c)
 
+## Bag of Words :
+
+[Blog - A Gentle Introduction to the Bag-of-Words Model
+by Jason Brownlee]([https://towardsdatascience.com/word-subword-and-character-based-tokenization-know-the-difference-ea0976b64e17](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 
 ## Word Embeddings :
