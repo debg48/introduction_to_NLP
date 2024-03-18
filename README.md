@@ -25,7 +25,7 @@ Stop words are most common words in any language that do not add much informatio
 [Blog - A Gentle Introduction to the Bag-of-Words Model
 by Jason Brownlee](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 
-##TF-IDF
+## TF-IDF
 
 
 ## Word Embeddings :
