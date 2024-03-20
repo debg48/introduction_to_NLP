@@ -27,5 +27,5 @@ by Jason Brownlee](https://machinelearningmastery.com/gentle-introduction-bag-wo
 
 ## TF-IDF
 
-
+[Blog - TF-IDF by Fatih Karabiber](https://www.learndatasci.com/glossary/tf-idf-term-frequency-inverse-document-frequency/)
 ## Word Embeddings :
